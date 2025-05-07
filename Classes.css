@@ -1,0 +1,8 @@
+h1 {color: gold; font-family: Castellar, serif; text-shadow: 0 0 5px lightblue;}
+body {background-color: rgb(4, 63, 83); font-family: 'Footlight MT', serif; color: white;}
+nav {display: flex; justify-content: center; background-color: darkgreen;}
+a {padding: 30px; text-decoration: none; color: white;}
+#margin { float: right; background-color: green; min-height: 100vh; margin-left: 150px; margin-right: 150px; border-radius: 25px;}
+img {float: left; max-width: 80px;}
+#text {margin-left: 100px; margin-right: 100px;}
+.line {margin-top: 50px; border: 3px; border-style: solid; border-color: darkgreen; border-bottom: 0px; border-left: 0px; border-right: 0px; padding-top: 30px;}
